@@ -13,7 +13,7 @@ public class Etudiant {
 
     public static void main(String[] args) {
         Etudiant e1 = new Etudiant(1, "ibtihal", 22);
-        Etudiant e2 = new Etudiant(2, "HIKMAT", 10);
+        Etudiant e2 = new Etudiant(2, "chergu", 10);
         System.out.println("le id :" + e1.id + "le nom: " + e1.nom + " num etudiant :" + e1.nbEtud);
     }
 }
